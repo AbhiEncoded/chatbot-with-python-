@@ -126,7 +126,7 @@ while True:
     else:
         print(ans)
 
-# step2
+# show results as table
 # import texttable
 #
 # t = texttable.Texttable()
