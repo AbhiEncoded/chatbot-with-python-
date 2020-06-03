@@ -133,7 +133,7 @@ def addans(question):
 
 def resettable():
     print("resetting..")
-    cursor.execute("drop table qanda")
+    cursor.execute("drop table qanda")   #only for qanda
     restorebackup()
 
 
